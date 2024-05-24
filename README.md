@@ -74,3 +74,5 @@ Follow these steps to set up the project and upload files to S3 using pre-signed
    ```bash
    npx create-react-app react-file-upload
    cd react-file-upload
+   npm start
+
